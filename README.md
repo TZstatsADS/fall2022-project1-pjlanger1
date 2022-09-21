@@ -9,10 +9,15 @@ This is the first and only *individual* (as opposed to *team*) project this seme
 
 Term: Fall 2022
 
-+ Projec title: Lorem ipsum dolor sit amet
-+ This project is conducted by [your name]
++ Projec title: Peter Langer's Data Science Python Notebook
++ This project is conducted by Peter Langer
 
-+ Project summary: [a short summary] Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
++ Project summary: In analyzing a corpus of philosophy data there are numerous angles that can be taken.
++ I chose to explore topic modeling as well as clustering according to autoregressive patterns within the authors' sentiment throughout the text.
++ I Leverage LDA, k means on autocovariance parameters to this end.
++ These methods yielded many interesting insights RE: shared lineage in philosophy.
+
+PLEASE OPEN THE PDF notebook if you have trouble importing the .html to your Jupyter instance.
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
